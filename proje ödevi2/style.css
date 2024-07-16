@@ -1,0 +1,61 @@
+.yönlendirici{
+    background-color: #212429;
+    color: rgba(255, 255, 255,0.5);
+    }
+    .navbar-brand{
+        color: white;
+    }
+    h1{
+        color: white;
+        font-size: 50px;
+    }
+    .şablon{
+       padding: 100px 70px 100px 50px !important;
+       
+    }
+    p{
+        font-size: large;
+    }
+   .resim{
+    width: 100% !important;
+    height: 100% !important;
+   }
+   i{
+    font-size: 50px;
+    background-color: white;
+    color: black;
+   }
+   .alıntı{
+    background-color: #f8f9fb !important;
+    font-weight: lighter !important;
+    font-style: italic;
+    padding: 100px 40px 100px 40px;
+   }
+   
+   .card img{
+    width: 600px !important;
+    height: 350px !important;
+   }
+  
+   .arama{
+    color: white;
+    padding: 30px !important;
+   }
+  #story{
+    background-color: #f8f9fb
+    ;
+  }
+  .people img{
+    width: 150px !important;
+    height: 150px !important;
+  }
+  .people{
+    background-color: #f8f9fb;
+  }
+  .forum{
+    background-color: #f8f9fb !important;
+  }
+.card-footer img{
+    width: 60px !important;
+    height: 40px !important;
+}
